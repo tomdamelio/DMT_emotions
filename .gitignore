@@ -1,0 +1,19 @@
+# Ignorar archivos EEG y relacionados
+*.eeg
+*.vhdr
+*.vmrk
+
+# Ignorar archivos de MATLAB
+*.mat
+
+# Ignorar archivos CSV
+*.csv
+
+# Ignorar archivos PNG
+*.png
+
+# Ignorar carpetas de datos
+data/
+glhmm/plots/
+glhmm/X/
+glhmm/Y/
